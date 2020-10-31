@@ -141,7 +141,8 @@ chapters = [
     "https://deathworlders.com/books/deathworlders/chapter-67-resurgence/",
     "https://deathworlders.com/books/deathworlders/chapter-68-nadir/",
     "https://deathworlders.com/books/deathworlders/chapter-69-lockdown/",
-    "https://deathworlders.com/books/deathworlders/chapter-70-death-eye-pt1/"
+    "https://deathworlders.com/books/deathworlders/chapter-70-death-eye-pt1/",
+    "https://deathworlders.com/books/deathworlders/chapter-70-death-eye-pt2/"
 ]
 
 # Test on one chapter
